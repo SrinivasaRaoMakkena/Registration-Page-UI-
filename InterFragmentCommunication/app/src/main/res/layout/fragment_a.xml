@@ -1,0 +1,36 @@
+<LinearLayout
+
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/fragmentA"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditText
+        android:id="@+id/num1A"
+        android:hint="num1"
+        android:layout_width="match_parent"
+        android:layout_weight="0.33"
+        android:textSize="30sp"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/num2A"
+        android:hint="num2"
+        android:layout_width="match_parent"
+        android:layout_weight="0.33"
+        android:textSize="30sp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/sendTOMain"
+        android:layout_width="match_parent"
+        android:layout_weight="0.33"
+        android:text="Send to Host"
+        android:layout_height="wrap_content"
+
+        />
+
+
+    </LinearLayout>
+
+
+

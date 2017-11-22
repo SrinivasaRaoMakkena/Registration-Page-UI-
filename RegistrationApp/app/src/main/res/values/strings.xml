@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="nameHint">Name</string>
+    <string name="passHint">Password</string>
+    <string name="phoneHint">Phone number</string>
+    <string name="submitBtnText">Submit</string>
+    <string name="resetBtnText">Reset</string>
+
+</resources>
